@@ -3,4 +3,4 @@ x = 2*x
 
 print(x)
 
-input("Press enter to exit")
+input("Press any key to exit")
